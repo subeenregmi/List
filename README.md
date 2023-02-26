@@ -11,5 +11,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * IOS app that syncs notes across devices
 * App that allows you to set notifications for any reason.
 * Add smart contracts to pychain
+* Drone?
 
 These are it for now, if you would to help on any just send me a message or email!
