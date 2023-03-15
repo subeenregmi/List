@@ -15,5 +15,7 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Common data structures and algorithms visualization
 * Baby shusher, using AI and computer vision
 * Twitter api, that finds out the top 10 most mispelt words.
+* Tezos social media platform
+* Custom .dotfiles
 
 These are it for now, if you would to help on any just send me a message or email!
