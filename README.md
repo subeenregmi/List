@@ -18,5 +18,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Tezos social media platform
 * Custom .dotfiles
 * Terminal app for ipad
+* Deepfake voice
 
 These are it for now, if you would to help on any just send me a message or email!
