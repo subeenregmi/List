@@ -17,5 +17,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Twitter api, that finds out the top 10 most mispelt words.
 * Tezos social media platform
 * Custom .dotfiles
+* Terminal app for ipad
 
 These are it for now, if you would to help on any just send me a message or email!
