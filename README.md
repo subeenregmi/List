@@ -20,5 +20,7 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Terminal app for ipad
 * Deepfake voice
 * Operating system with assembly
+* Discord bot to remind dates
+* Automatic test maker, using AI to create the exam and markscheme
 
 These are it for now, if you would to help on any just send me a message or email!
