@@ -26,5 +26,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Location reminder - set notfications when you are in or nearby a point of interest.
 * Canvas of a million pixels where each pixel is an NFT on solana
 * Chess engine
+* Trading Bot
 
 These are it for now, if you would to help on any just send me a message or email!
