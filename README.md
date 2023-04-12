@@ -27,5 +27,7 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Canvas of a million pixels where each pixel is an NFT on solana
 * Chess engine
 * Trading Bot
+* Physics Engine
+* Pool/Snooker game
 
-These are it for now, if you would to help on any just send me a message or email!
+These are it for now, if you would like to help on any just send me a message or email!
