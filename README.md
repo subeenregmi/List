@@ -11,7 +11,7 @@ Here are a list of projects that I would like to do sometime in the future, this
 * IOS app that syncs notes across devices
 * App that allows you to get notifications for any reason.
 * Add smart contracts to pychain
-* Drone using aurdino 
+* Drone using arduino 
 * Common data structures and algorithms visualization
 * Baby shusher, using AI and computer vision
 * Twitter api, that finds out the top 10 most mispelt words.
@@ -21,7 +21,7 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Deepfake voice
 * Operating system with assembly
 * Discord bot to remind dates
-* Automatic test maker, using AI to create the exam and markscheme
+* Automatic test maker, using AI to create the exam and markscheme and test marker with reasoning
 * Flipclock in terminal using bash
 * Location reminder - set notfications when you are in or nearby a point of interest.
 * Canvas of a million pixels where each pixel is an NFT on solana
@@ -37,5 +37,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Fridge Software to give recommendations, and keep track on what you buy.
 * Printer software that allows for multiple documents to be printed at once
 * Catan Nueral Network
+* Robot
 
 These are it for now, if you would like to help on any just send me a message or email!
