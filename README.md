@@ -36,5 +36,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Photo management system for website
 * Fridge Software to give recommendations, and keep track on what you buy.
 * Printer software that allows for multiple documents to be printed at once
+* Catan Nueral Network
 
 These are it for now, if you would like to help on any just send me a message or email!
