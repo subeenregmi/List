@@ -39,5 +39,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Catan Nueral Network
 * Robot
 * House Secuirity System
+* Graph and algorithms visualiser
 
 These are it for now, if you would like to help on any just send me a message!
