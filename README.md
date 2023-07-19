@@ -38,8 +38,9 @@ Here are a list of projects that I would like to do sometime in the future, this
 * Printer software that allows for multiple documents to be printed at once
 * Catan Nueral Network
 * Robot
-* House Secuirity System
+* House Security System
 * Graph and algorithms visualiser
 * Solitaire algorithm
+* 20 minute look away
 
 These are it for now, if you would like to help on any just send me a message!
