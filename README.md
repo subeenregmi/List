@@ -44,5 +44,6 @@ Here are a list of projects that I would like to do sometime in the future, this
 * 20 minute look away
 * Card game engine
 * Chrome extension letting you know if you are getting dropshipped
+* Easy use package manager for C/C++
 
 These are it for now, if you would like to help on any just send me a message!
