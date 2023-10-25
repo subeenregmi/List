@@ -34,6 +34,7 @@ Medium Projects
 * Sim card on computers, automating verification
 * Chess engine
 * Adding smart contracts to pychain
+* Compiled Language
 
 Hard Projects
 
