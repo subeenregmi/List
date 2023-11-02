@@ -35,6 +35,8 @@ Medium Projects
 * Chess engine
 * Adding smart contracts to pychain
 * Compiled Language
+* Discord bot that does deepfakes
+* Humidity and temperature control for room
 
 Hard Projects
 
