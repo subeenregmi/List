@@ -9,11 +9,11 @@ Small Projects
 * Photo management system for website
 * 20 minute look away
 * Chrome extension letting you know if you are getting dropshipped
-* Sodoku Solver
+* ~~Sodoku Solver~~
 * Discord bot to remind dates
 * Flipclock in terminal using bash
 * Canvas of a million pixels where each pixel is an NFT on solana
-* Twitter api, that finds out the top 10 most mispelt words.
+* Twitter api, that finds out the top 10 most misspelt words.
 
 
 Medium Projects
@@ -35,7 +35,7 @@ Medium Projects
 * Chess engine
 * Adding smart contracts to pychain
 * Compiled Language
-* Discord bot that does deepfakes
+* ~~Discord bot that does deepfakes~~
 * Humidity and temperature control for room
 
 Hard Projects
@@ -49,5 +49,6 @@ Hard Projects
 * Bezier curve plotter
 * Solitaire algorithm* Card game engine
 * Easy use package manager for C/C++
+* Latex parser
 
 These are it for now, if you would like to help on any just send me a message!
