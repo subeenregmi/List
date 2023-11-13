@@ -14,7 +14,7 @@ Small Projects
 * Flipclock in terminal using bash
 * Canvas of a million pixels where each pixel is an NFT on solana
 * Twitter api, that finds out the top 10 most misspelt words.
-
+* Fractal zoomer
 
 Medium Projects
 * Game simulation played by a neural network
