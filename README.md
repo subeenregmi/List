@@ -50,5 +50,6 @@ Hard Projects
 * Solitaire algorithm* Card game engine
 * Easy use package manager for C/C++
 * Latex parser
+* P2P vpn
 
 These are it for now, if you would like to help on any just send me a message!
