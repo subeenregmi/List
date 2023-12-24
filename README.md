@@ -37,6 +37,7 @@ Medium Projects
 * Compiled Language
 * ~~Discord bot that does deepfakes~~
 * Humidity and temperature control for room
+* Visual docs/man pages graph
 
 Hard Projects
 
