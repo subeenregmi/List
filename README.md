@@ -38,6 +38,7 @@ Medium Projects
 * ~~Discord bot that does deepfakes~~
 * Humidity and temperature control for room
 * Visual docs/man pages graph
+* Punchcard productivity website
 
 Hard Projects
 
