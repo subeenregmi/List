@@ -39,6 +39,7 @@ Medium Projects
 * Humidity and temperature control for room
 * Visual docs/man pages graph
 * Punchcard productivity website
+* Irc client
 
 Hard Projects
 
