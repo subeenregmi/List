@@ -58,5 +58,6 @@ Hard Projects
 * Latex parser
 * P2P vpn
 * 80386 Cpu emulator that works with linux 0.0.1
+* Fully working (reasonable) computer from scratch
 
 These are it for now, if you would like to help on any just send me a message!
