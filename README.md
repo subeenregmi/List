@@ -40,6 +40,8 @@ Medium Projects
 * Visual docs/man pages graph
 * Punchcard productivity website
 * Irc client
+* MP3 Player + Radio? + Suggestion Engine + database connections
+* MD editor + backups
 
 Hard Projects
 
