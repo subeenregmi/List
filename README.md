@@ -16,6 +16,7 @@ Small Projects
 * Twitter api, that finds out the top 10 most misspelt words.
 * Fractal zoomer
 * Turing machine sim
+* Logic circuit sim
 
 Medium Projects
 * Game simulation played by a neural network
