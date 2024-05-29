@@ -17,7 +17,7 @@ Small Projects
 * Fractal zoomer
 * Turing machine sim
 * Logic circuit sim
-* Temperature monitor
+* Temperature monitor that has display and multiple temp sensors
 
 Medium Projects
 * Game simulation played by a neural network
