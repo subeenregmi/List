@@ -18,7 +18,7 @@ Small Projects
 * Turing machine sim
 * Logic circuit sim
 * Temperature monitor that has display and multiple temp sensors
-* HTML title animations
+* HTML title animations (small title chatbot)
 
 Medium Projects
 * Game simulation played by a neural network
