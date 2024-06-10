@@ -63,5 +63,6 @@ Hard Projects
 * Fully working (reasonable) computer from scratch
 * Note taking app which allows for customisable runnable code snippets, either working together or seperately.
 * Immutable message website, users can write anything, messages cannot use the backspace, messages fade in and out on a canvas
+* 3D website viewer, turns html code into a 3D model
 
 These are it for now, if you would like to help on any just send me a message!
