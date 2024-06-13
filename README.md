@@ -46,6 +46,7 @@ Medium Projects
 * Irc client
 * MP3 Player + Radio? + Suggestion Engine + database connections
 * MD editor + backups
+* Amazon shopping CLI tool + tracker
 
 Hard Projects
 
