@@ -47,6 +47,7 @@ Medium Projects
 * MP3 Player + Radio? + Suggestion Engine + database connections
 * MD editor + backups
 * Amazon shopping CLI tool + tracker
+* Tool to visualize packet routing
 
 Hard Projects
 
